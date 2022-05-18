@@ -8,7 +8,7 @@
 📫 - Feel free to contact and share with me!
 
 ### Contact
---> [Email](coh.jr11@gmail.com)
+--> Email: coh.jr11@gmail.com
 
 --> Phone: (+1) 778-223-0169
 
