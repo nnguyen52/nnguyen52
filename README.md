@@ -31,6 +31,7 @@
 * NextJS
 * State management: Redux / RecoilJS / Apollo Client
 * UI: CSS / Bootstrap / MUI5 / Tailwind
+* SocketIO Client
 * Animation: Framer Motion
 * Media: Cloudinary
 
