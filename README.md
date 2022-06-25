@@ -50,7 +50,8 @@
 
 ### Projects
 
-* Currently working on: [Reddis](https://github.com/nnguyen52/graqphql_appollo)
+* Currently working on: [Messenger realtime fullstack](https://github.com/nnguyen52/MessengerIO-client) 
+* Reddit replication Fullstack: [Reddis](https://github.com/nnguyen52/graqphql_appollo)
 * Websites using videogame API: [IGeDeBe_Beyongd](https://github.com/nnguyen52/IGeDeBe_Beyond) / [IGeDeBe](https://github.com/nnguyen52/igedebe-2)
 * Custom Carousel: [Skew_Carousel](https://github.com/nnguyen52/testing_skewed_carousel)
 * Replication of Instagram (learned from Senior Developer): [Instawhine](https://github.com/nnguyen52/instawhine)
