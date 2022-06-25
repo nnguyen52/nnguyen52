@@ -3,7 +3,7 @@
 
 📂 - I’m using Github to share my experimentations in a project. In other words, it serves as a basis for attempts and the application of concepts in order to express my creative mind and my willingness to innovate 🎯.
 
-📆 - My current project is called Reddis, a replication of Reddit with fullstack (NextJS for FrontEnd and Express for BackEnd) but without Machine Learning.
+📆 - My current project is a realtime chat app, a replication of Facebook Messenger in fullstack (NextJS for FrontEnd and Express for BackEnd)
 
 📫 - Feel free to contact and share with me!
 
